@@ -1,4 +1,10 @@
-# Nuxt 3 + Vuetify 3 + Eslint + Stylelint + Pinia + Nuxt Icon Starter Template
+# Nuxtify 3
+
+🔥🔥🔥[Demo](https://nuxt.com/docs/getting-started/deployment) 🔥🔥🔥
+
+Nuxt 3 + Vuetify 3 + Eslint + Stylelint + Pinia + Nuxt Icon Starter Template
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjakkph%2FNuxtify3-starter-template)
 
 ## Setup
 
@@ -10,7 +16,7 @@ pnpm install
 
 ## Development Server
 
-Start the development server on http://localhost:3000
+Start the development server on <http://localhost:3000>
 
 ```bash
 pnpm dev
