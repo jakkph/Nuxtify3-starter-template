@@ -3,7 +3,7 @@
     <LayoutSidebarMain />
     <LayoutTopbarMain />
     <VMain>
-      <VContainer>
+      <VContainer fluid>
         <slot />
       </VContainer>
     </VMain>

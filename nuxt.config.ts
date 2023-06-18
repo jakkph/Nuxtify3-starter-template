@@ -48,5 +48,9 @@ export default defineNuxtConfig({
       "defineStore", // import { defineStore } from 'pinia'
       ["defineStore", "definePiniaStore"] // import { defineStore as definePiniaStore } from 'pinia'
     ]
+  },
+
+  nitro: {
+    preset: "vercel"
   }
 });
