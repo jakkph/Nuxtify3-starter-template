@@ -1,6 +1,4 @@
-# Nuxtify 3
-
-🔥🔥🔥[Demo](https://nuxtify3-starter-template.vercel.app/) 🔥🔥🔥
+# Nuxtify 3 🔥 [Demo](https://nuxtify3-starter-template.vercel.app/) 🔥
 
 Nuxt 3 + Vuetify 3 + Eslint + Stylelint + Pinia + Nuxt Icon Starter Template
 
