@@ -102,12 +102,12 @@ $typography: map-deep-merge(
             'weight': 400,
             'font-family': inherit
         ),
-        // 'button': (
-        //     'size': 0.875rem,
-        //     'weight': 500,
-        //     'font-family': inherit,
-        //     'text-transform': uppercase
-        // ),
+        'button': (
+            'size': 0.875rem,
+            'weight': 500,
+            'font-family': inherit,
+            'text-transform': uppercase
+        ),
         'caption': (
             'size': 0.75rem,
             'weight': 400,
